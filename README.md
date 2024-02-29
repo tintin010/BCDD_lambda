@@ -9,6 +9,7 @@ LambdaFunction을 통해 함수를 생성할 때 init 내부의 파일도 같이
 ![image](https://github.com/tintin010/BCDD_lambda/assets/82323029/5d7e0bdb-02fb-4cd2-9836-78c41173cf0a)
 
 ### <함수와 연결되어 있는 게이트웨이>
+메소드별로 게이트웨이를 지정해주면 된다.
 ![image](https://github.com/tintin010/BCDD_lambda/assets/82323029/56569513-f27a-40b5-a036-079c6fd53ab6)
 
 ### 게이트웨이 설정은 해당 페이지에서 하면 된다.
